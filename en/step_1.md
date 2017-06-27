@@ -32,7 +32,6 @@ Using Scratch Pi GPIO you can use a button in your Scratch projects.
 - Here's a video showing you the whole process.
 
 	<video width="560" height="315" controls>
-	<source src="https://s3.eu-west-2.amazonaws.com/learning-resources-production/projects/rpi-scratch-button/9cd0dbdf96b7891efc2db6c449e3428f4d32c0c0/en/images/scratch-pi-gpio-button.webm" type="video/webm">
+	<source src="https://s3.eu-west-2.amazonaws.com/learning-resources-production/projects/rpi-scratch-button/c79b0bdd8e3d6cee705ccde31f7d7d64ace5be24/en/images/scratch-pi-gpio-button.webm" type="video/webm">
 	Try using Firefox or Chrome for WebM support
 	</video>
-
