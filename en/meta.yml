@@ -1,0 +1,13 @@
+title: Using push buttons with Scratch
+hero_image: images/banner.png
+description: Use a button with Scratch and a GPIO pin of your Pi
+original_url: 
+theme: cc-prototype
+duration: 1
+listed: false
+ingredient: true
+copyedit: false
+interests: ""
+technologies: "scratch, raspberry pi"
+steps:
+  - title: Using a button
